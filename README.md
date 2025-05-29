@@ -1,6 +1,6 @@
 # freq - Shell History Analyzer
 
-A powerful command-line tool to analyze your shell command usage patterns. Get insights into your most-used commands, discover usage trends, and optimize your workflow.
+A minimal CLI tool to analyze your shell command usage patterns. Gives insights into your most-used commands and usage trends.
 
 ## Features
 
