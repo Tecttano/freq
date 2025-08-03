@@ -315,5 +315,3 @@ MIT License - see LICENSE file for details.
 Created by [Tecttano](https://github.com/Tecttano)
 
 ---
-
-**Made with ❤️ for the command-line community**
